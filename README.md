@@ -2,8 +2,10 @@
 It is web-app in which you can add your memories by adding tags, title ,time of upload(automatic) and description about it, you can also  like others 
 post and search posts by name of memories and tags. you can later edit your post also and delete too according to your wish. It is fully responsive web-app with 
 google authorization, expiry-session and pagination features.
+
+-------------------------------------------
 Here are some screenshots of how it looks
---------------------------------------------------------------
+
 ![Screenshot (464)](https://user-images.githubusercontent.com/70806481/129334510-67e8725d-4f36-4545-8175-7ad81eff5ea7.png)
 ![Screenshot (465)](https://user-images.githubusercontent.com/70806481/129334518-4f03f83a-0fbc-468c-aabe-d100b804ef74.png)
 ![Screenshot (466)](https://user-images.githubusercontent.com/70806481/129334523-0b6e1b5e-dbf4-4c83-8134-d3ef20584163.png)
